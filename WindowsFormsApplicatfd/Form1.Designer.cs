@@ -42,6 +42,7 @@
             this.neu.TabIndex = 0;
             this.neu.Text = "button1";
             this.neu.UseVisualStyleBackColor = true;
+            this.neu.Click += new System.EventHandler(this.neu_Click);
             // 
             // radioButton1
             // 

@@ -15,6 +15,12 @@ namespace WindowsFormsApplicatfd
         public Form1()
         {
             InitializeComponent();
+
+        }
+
+        private void neu_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("JO");
         }
     }
 }
